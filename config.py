@@ -11,7 +11,7 @@ class TestingConfig():
         
 class DevelopmentConfig():
         SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
-        SQLALCHEMY_DATABASE_URI = "postgresql://salonapi_user:UDCYfmsCp7DYWk2ar4ssjzYGfGmjJf31@dpg-d0tvqoadbo4c73a7qpog-a/salonapi"
+        SQLALCHEMY_DATABASE_URI = "postgresql://salonapi_riya_user:t132AGJUY5yxON8ahu6Fo7y5k42fXofv@dpg-d4h2kv95pdvs738vf040-a/salonapi_riya"
         DEBUG = True
         DEVELOPMENT = True
         
