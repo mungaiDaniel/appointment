@@ -23,7 +23,7 @@ flask-marshmallow==0.14.0
 Flask-Migrate==4.0.4
 Flask-RESTful==0.3.8
 Flask-Script==2.0.6
-Flask-SQLAlchemy==3.0.3
+Flask-SQLAlchemy==3.0.0
 flask-swagger-ui==4.11.1
 gunicorn==20.1.0
 h11==0.14.0
@@ -63,9 +63,9 @@ PyYAML==6.0.1
 requests==2.26.0
 rich==13.3.1
 six==1.15.0
-SQLAlchemy==2.0.4
+SQLAlchemy==2.0.0
 tomli==2.0.1
-typing_extensions==4.4.0
+typing_extensions==4.8.0
 urllib3==1.26.12
 uvicorn==0.20.0
 Werkzeug==2.2.2
