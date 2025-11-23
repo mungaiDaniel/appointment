@@ -25,7 +25,6 @@ Flask-RESTful==0.3.8
 Flask-Script==2.0.6
 Flask-SQLAlchemy==3.0.3
 flask-swagger-ui==4.11.1
-gunicorn==20.1.0
 h11==0.14.0
 idna==3.4
 importlib-metadata==5.1.0
@@ -59,15 +58,17 @@ pytest==7.2.0
 pytest-cov==4.0.0
 python-dotenv==0.21.0
 pytz==2020.1
-PyYAML==6.0.1
 requests==2.26.0
 rich==13.3.1
 six==1.15.0
-SQLAlchemy==2.0.4
 tomli==2.0.1
-typing_extensions==4.4.0
 urllib3==1.26.12
 uvicorn==0.20.0
 Werkzeug==2.2.2
 wrapt==1.14.1
 
+Flask-SQLAlchemy==3.0.3
+SQLAlchemy==2.0.23
+gunicorn==21.2.0
+typing_extensions==4.8.0
+PyYAML==6.0.1
