@@ -64,7 +64,6 @@ PyYAML==6.0.1
 requests==2.26.0
 rich==13.3.1
 six==1.15.0
-SQLAlchemy==2.0.23
 tomli==2.0.1
 typing_extensions==4.8.0
 urllib3==1.26.12
